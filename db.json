@@ -214,6 +214,13 @@
       "text": "asdfasd",
       "date": "2021-06-22T20:44:07.102Z",
       "id": 22
+    },
+    {
+      "campsiteId": 1,
+      "author": "bohdan",
+      "text": "Hello dummy comment",
+      "date": "2021-06-22T21:51:45.762Z",
+      "id": 23
     }
   ],
   "partners": [
